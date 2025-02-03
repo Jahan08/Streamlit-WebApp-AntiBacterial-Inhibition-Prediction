@@ -1,7 +1,0 @@
-streamlit
-numpy
-pandas
-tensorflow
-torch
-rdkit
-matplotlib
